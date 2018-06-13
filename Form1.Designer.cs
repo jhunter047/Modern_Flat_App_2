@@ -42,7 +42,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(147, 45);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "New Game";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
@@ -51,7 +51,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(147, 45);
             this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
+            this.button2.Text = "Load Game";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // button3
@@ -60,7 +60,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(147, 45);
             this.button3.TabIndex = 2;
-            this.button3.Text = "button3";
+            this.button3.Text = "Credits";
             this.button3.UseVisualStyleBackColor = true;
             // 
             // button4
@@ -69,7 +69,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(147, 45);
             this.button4.TabIndex = 3;
-            this.button4.Text = "button4";
+            this.button4.Text = "Options";
             this.button4.UseVisualStyleBackColor = true;
             // 
             // button5
@@ -78,7 +78,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(147, 45);
             this.button5.TabIndex = 4;
-            this.button5.Text = "button5";
+            this.button5.Text = "Exit";
             this.button5.UseVisualStyleBackColor = true;
             // 
             // Form1
